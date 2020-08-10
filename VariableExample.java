@@ -1,0 +1,2 @@
+c:/javaSource/VariableExample.java
+
